@@ -99,7 +99,7 @@ figcaption {
   position: relative;
   height: 500px;
   width: 100%;
-  background-image: url("https://yurii-filiushkin.github.io/Tea-Cazy/resources/images/img-locations-background.jpg");
+  background-image: url("resources/images/img-locations-background.jpg");
 }
 
 .address_block {
